@@ -1,6 +1,6 @@
 # 💌 Carta - Projeto Interativo
 
-Um projeto web emocionante que simula uma carta física que pode ser aberta e fechada, criada especialmente para o Dia das Mães.
+Um projeto web emocionante que simula uma carta física que pode ser aberta e fechada, criada especialmente para alguma comemoração.
 
 ## ✨ Características
 
